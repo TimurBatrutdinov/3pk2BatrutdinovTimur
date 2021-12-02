@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\pz_18.3\bin\Debug\netcoreapp3.1\pz_18.3.exe
+C:\Users\admin\source\repos\pz_18.3\bin\Debug\netcoreapp3.1\pz_18.3.deps.json
+C:\Users\admin\source\repos\pz_18.3\bin\Debug\netcoreapp3.1\pz_18.3.runtimeconfig.json
+C:\Users\admin\source\repos\pz_18.3\bin\Debug\netcoreapp3.1\pz_18.3.runtimeconfig.dev.json
+C:\Users\admin\source\repos\pz_18.3\bin\Debug\netcoreapp3.1\pz_18.3.dll
+C:\Users\admin\source\repos\pz_18.3\bin\Debug\netcoreapp3.1\pz_18.3.pdb
+C:\Users\admin\source\repos\pz_18.3\obj\Debug\netcoreapp3.1\pz_18.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\pz_18.3\obj\Debug\netcoreapp3.1\pz_18.3.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\pz_18.3\obj\Debug\netcoreapp3.1\pz_18.3.AssemblyInfo.cs
+C:\Users\admin\source\repos\pz_18.3\obj\Debug\netcoreapp3.1\pz_18.3.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\pz_18.3\obj\Debug\netcoreapp3.1\pz_18.3.dll
+C:\Users\admin\source\repos\pz_18.3\obj\Debug\netcoreapp3.1\pz_18.3.pdb
+C:\Users\admin\source\repos\pz_18.3\obj\Debug\netcoreapp3.1\pz_18.3.genruntimeconfig.cache
