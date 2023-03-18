@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\grigoryan.ea1256\\Desktop\\1\\PZ_5\\PZ_5\\PZ_5.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\grigoryan.ea1256\\Desktop\\1\\PZ_5\\PZ_5\\PZ_5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\grigoryan.ea1256\\Desktop\\1\\PZ_5\\PZ_5\\PZ_5.csproj",
+        "projectName": "PZ_5",
+        "projectPath": "C:\\Users\\grigoryan.ea1256\\Desktop\\1\\PZ_5\\PZ_5\\PZ_5.csproj",
+        "packagesPath": "C:\\Users\\grigoryan.ea1256\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grigoryan.ea1256\\Desktop\\1\\PZ_5\\PZ_5\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\grigoryan.ea1256\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
