@@ -1,0 +1,36 @@
+﻿<Window x:Class="PZ_10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PZ_10"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF7F6E6E" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid Margin="10,10,-790,377">
+            <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,0,0,-49" Width="790">
+                <StackPanel.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FFD8D5D5" Offset="1"/>
+                    </LinearGradientBrush>
+                </StackPanel.Background>
+                <Button Content="Сохранить" Click="Save_File" Width="108" FontFamily="Bahnschrift Condensed" FontSize="22" FontWeight="Bold"/>
+                <Button Content="B" Click="Bold_Text" Width="40" FontSize="22" FontFamily="Bahnschrift Condensed" FontWeight="Bold"/>
+                <Button Content="I" Click="Italic_Text" Width="40" FontStyle="Italic" FontSize="22" FontFamily="Bahnschrift Condensed" FontWeight="Bold"/>
+                <Button Content="U" Click="Underline_Text" Width="40" FontFamily="Bahnschrift Condensed" FontSize="22" FontWeight="Bold"/>
+                <Button Content="Изменить размер" Width="391" Click="Change_txt" FontFamily="Bahnschrift Condensed" FontSize="22" FontWeight="Bold" Height="97"/>
+                <TextBox x:Name="txtSize" Width="50" Height="94"/>
+                <Button Content="Вернуть" Click="Undo_Text" Width="90" Height="93" FontFamily="Bahnschrift Condensed" FontSize="22" FontWeight="Bold"/>
+            </StackPanel>
+        </Grid>
+        <RichTextBox Name="tb1" FontSize="14" HorizontalAlignment="Center" Margin="0,116,0,0" VerticalAlignment="Top" Width="780" Height="285"/>
+
+    </Grid>
+</Window>
