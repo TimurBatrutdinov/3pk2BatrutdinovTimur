@@ -1,0 +1,16 @@
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\bin\Debug\PZ_6.exe.config
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\bin\Debug\PZ_6.exe
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\bin\Debug\PZ_6.pdb
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\PZ_6.csproj.AssemblyReference.cache
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\PZ_6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\MainWindow.g.cs
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\App.g.cs
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\PZ_6_MarkupCompile.cache
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\PZ_6_MarkupCompile.lref
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\MainWindow.baml
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\PZ_6.g.resources
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\PZ_6.Properties.Resources.resources
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\PZ_6.csproj.GenerateResource.cache
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\PZ_6.csproj.CoreCompileInputs.cache
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\PZ_6.exe
+C:\Users\Банни хоп Егоров\Desktop\3pk2_Loginov-master\PZ_6\obj\Debug\PZ_6.pdb
