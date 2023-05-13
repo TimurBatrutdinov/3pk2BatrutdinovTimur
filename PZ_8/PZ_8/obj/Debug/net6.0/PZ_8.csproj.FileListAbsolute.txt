@@ -1,0 +1,15 @@
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\bin\Debug\net6.0\PZ_8.exe
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\bin\Debug\net6.0\PZ_8.deps.json
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\bin\Debug\net6.0\PZ_8.runtimeconfig.json
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\bin\Debug\net6.0\PZ_8.dll
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\bin\Debug\net6.0\PZ_8.pdb
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\obj\Debug\net6.0\PZ_8.csproj.AssemblyReference.cache
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\obj\Debug\net6.0\PZ_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\obj\Debug\net6.0\PZ_8.AssemblyInfoInputs.cache
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\obj\Debug\net6.0\PZ_8.AssemblyInfo.cs
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\obj\Debug\net6.0\PZ_8.csproj.CoreCompileInputs.cache
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\obj\Debug\net6.0\PZ_8.dll
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\obj\Debug\net6.0\refint\PZ_8.dll
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\obj\Debug\net6.0\PZ_8.pdb
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\obj\Debug\net6.0\PZ_8.genruntimeconfig.cache
+C:\Users\Банни хоп Егоров\source\repos\PZ_8\PZ_8\obj\Debug\net6.0\ref\PZ_8.dll
